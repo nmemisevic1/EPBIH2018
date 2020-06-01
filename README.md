@@ -1,6 +1,6 @@
-# Application written in 24 hours during Hackathon competition held by Elektroprivreda BiH
+Application written in 24 hours during Hackathon competition held by Elektroprivreda BiH
 
-## Highlights:
+# Highlights:
 
-# Chatbot
+## Chatbot
 ![](chatbot.gif)
